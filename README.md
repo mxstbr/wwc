@@ -1,12 +1,12 @@
-# React in Flip Flops
+# Women Who Code London 2017
 
-Welcome, we're happy to have you here with us in Las Palmas! 🌴☀️🏄
+Let's learn some React! ⚛️
 
 Before the workshop starts please make sure you can get this repository and run it locally:
 
 ```
-git clone https://github.com/reactinflipflops/riff.git
-cd riff
+git clone https://github.com/mxstbr/wwc.git
+cd wwc
 npm install
 npm start
 ```
